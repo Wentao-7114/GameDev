@@ -1978,3 +1978,114 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.07-03.09.47:112][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 668 ms)
 [2024.02.07-03.09.47:121][603]AssetCheck: New page: Asset Save: WBP_Restart
 [2024.02.07-03.09.47:121][603]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart
+[2024.02.07-03.15.52:012][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.07-03.15.52:015][ 90]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.049
+[2024.02.07-03.15.52:015][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.02.07-03.15.52:015][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.02.07-03.15.52:035][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto6
+[2024.02.07-03.15.52:035][ 90]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Player_Auto6F0EBDC36495068364E8727AFA337902B.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto6.uasset'
+[2024.02.07-03.15.52:036][ 90]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.02.07-03.58.54:172][994]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.102 and deleted 0 files with total size 0 MiB. Scanned 1312 files in 1305 folders with total size 21 MiB.
+[2024.02.07-04.11.44:339][556]LogSlate: Window 'WBP_Restart' being destroyed
+[2024.02.07-04.11.44:344][556]LogSlate: Window 'WBP_Restart' being destroyed
+[2024.02.07-04.11.44:366][556]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.11.44:366][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.11.44:382][556]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.11.44:382][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.11.47:612][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.02.07-04.11.47:613][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.11.59:504][872]BlueprintLog: New page: Compile BP_Player
+[2024.02.07-04.11.59:574][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.07-04.12.25:932][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.07-04.12.25:936][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.049
+[2024.02.07-04.12.25:936][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([2] browsable assets)...
+[2024.02.07-04.12.25:936][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2024.02.07-04.12.25:954][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto7
+[2024.02.07-04.12.25:955][ 48]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Tunnel_Auto79BEA24D64DDD7C3F7A1F2ABB5A817582.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto7.uasset'
+[2024.02.07-04.12.25:956][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.02.07-04.12.25:956][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.02.07-04.12.25:977][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto7
+[2024.02.07-04.12.25:977][ 48]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Player_Auto71DFF8F5E400580951A6DED912CC583E7.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto7.uasset'
+[2024.02.07-04.12.25:979][ 48]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.02.07-04.13.34:794][ 52]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.07-04.13.34:798][ 52]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.07-04.13.34:806][ 52]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.13.34:806][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.15.00:431][718]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.07-04.15.00:432][718]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.07-04.15.00:432][718]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.07-04.15.02:625][718]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.07-04.15.02:635][718]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.07-04.15.02:642][718]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.07-04.15.02:650][719]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.07-04.15.10:622][676]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD
+[2024.02.07-04.15.10:630][676]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.07-04.15.11:766][792]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HUD.HUD
+[2024.02.07-04.15.11:766][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.15.11:782][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.15.12:396][792]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.15.12:396][792]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.15.15:521][157]LogSlate: Window 'HUD' being destroyed
+[2024.02.07-04.15.15:525][157]LogSlate: Window 'HUD' being destroyed
+[2024.02.07-04.15.15:559][157]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.15.15:559][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.15.15:572][157]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.15.15:572][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.15.55:551][716]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/HUD.HUD
+[2024.02.07-04.15.55:551][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.15.55:566][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.15.56:208][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.15.56:208][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.16.59:883][884]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.07-04.17.00:668][913]LogEditorTransaction: Undo Edit Health
+[2024.02.07-04.17.00:783][925]LogEditorTransaction: Undo Change Parameter Type
+[2024.02.07-04.17.00:975][946]LogEditorTransaction: Undo Rename Variable
+[2024.02.07-04.17.01:341][988]LogEditorTransaction: Undo Add Variable
+[2024.02.07-04.17.01:524][  8]LogEditorTransaction: Undo Create Pin Link
+[2024.02.07-04.17.02:687][144]LogEditorTransaction: Undo Change Class Pin Value
+[2024.02.07-04.17.03:469][235]LogEditorTransaction: Undo Delete current selection
+[2024.02.07-04.20.09:421][441]BlueprintLog: New page: Compile HUD
+[2024.02.07-04.20.09:498][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.07-04.20.12:191][637]BlueprintLog: New page: Compile HUD
+[2024.02.07-04.20.12:251][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.02.07-04.20.28:026][914]LogSlate: Window 'HUD' being destroyed
+[2024.02.07-04.20.28:032][914]LogSlate: Window 'HUD' being destroyed
+[2024.02.07-04.20.28:071][914]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.20.28:071][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.20.28:081][914]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.20.28:081][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.20.30:897][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.07-04.20.35:914][168]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.07-04.20.35:955][168]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/UI/HUD.HUD
+	Asset Type: WidgetBlueprint
+[2024.02.07-04.20.36:307][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.07-04.20.36:341][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.07-04.20.36:373][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.07-04.20.56:938][398]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart
+[2024.02.07-04.20.56:938][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.20.56:954][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.07-04.20.57:620][398]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.20.57:620][398]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.07-04.21.13:231][778]LogSlate: Window 'WBP_Restart' being destroyed
+[2024.02.07-04.21.13:236][778]LogSlate: Window 'WBP_Restart' being destroyed
+[2024.02.07-04.21.13:272][778]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.21.13:272][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.21.13:283][778]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.02.07-04.21.13:283][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.07-04.21.16:001][ 76]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/InfiniteMatrix/UI/T_Restart.T_Restart
+[2024.02.07-04.21.16:634][ 76]LogViewport: Scene viewport resized to 1655x1115, mode Windowed.
+[2024.02.07-04.21.19:845][433]LogSlate: Window 'T_Restart' being destroyed
+[2024.02.07-04.21.19:850][433]LogSlate: Window 'T_Restart' being destroyed
+[2024.02.07-04.22.26:518][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.07-04.22.26:524][853]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.136
+[2024.02.07-04.22.26:525][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([2] browsable assets)...
+[2024.02.07-04.22.26:525][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2024.02.07-04.22.26:546][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8
+[2024.02.07-04.22.26:546][853]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Player_Auto869D2549D4498FB3F75280CA996B5803C.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto8.uasset'
+[2024.02.07-04.22.26:548][853]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Restart] ([2] browsable assets)...
+[2024.02.07-04.22.26:551][853]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/InfiniteMatrix/UI/WBP_Restart.WBP_Restart]
+[2024.02.07-04.22.26:551][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Restart]
+[2024.02.07-04.22.26:562][853]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto8
+[2024.02.07-04.22.26:562][853]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/WBP_Restart_Auto8CCB431AD405402B9E063CD93EAC3FBF6.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto8.uasset'
+[2024.02.07-04.22.26:563][853]LogFileHelpers: Auto-saving content packages took 0.039
