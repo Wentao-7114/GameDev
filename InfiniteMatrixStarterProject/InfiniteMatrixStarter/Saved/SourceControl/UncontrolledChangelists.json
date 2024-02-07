@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"C:/Users/wentaoz4/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"C:/Users/wentaoz4/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
 			]
