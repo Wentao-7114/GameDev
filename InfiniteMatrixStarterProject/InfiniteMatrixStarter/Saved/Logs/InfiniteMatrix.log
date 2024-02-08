@@ -6564,3 +6564,26 @@ Make sure 'BP_Projectile_C' has been compiled for  Set BP_PlayerProjectile
 [2024.02.08-23.10.49:532][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6
 [2024.02.08-23.10.49:533][293]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Tunnel_Auto62B4728E8401B9A65CEEE3389DDB2114B.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset'
 [2024.02.08-23.10.49:534][293]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.02.08-23.13.59:167][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.08-23.14.00:267][937]LogSlate: Window 'Save Content' being destroyed
+[2024.02.08-23.14.00:276][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.08-23.14.00:409][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.08-23.14.00:432][937]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.02.08-23.14.00:433][937]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/TutorialMapEFBC3B704A6EFE463463198087DD5170.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.02.08-23.14.00:448][937]LogFileHelpers: Saving map 'TutorialMap' took 0.069
+[2024.02.08-23.14.00:463][937]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Enemy
+[2024.02.08-23.14.00:464][937]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_EnemyFBDEF07945631746711981856C578099.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset'
+[2024.02.08-23.14.00:494][937]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Player
+[2024.02.08-23.14.00:494][937]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Player7AC5D0CD44E837B70DF75F88AADA5234.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2024.02.08-23.14.00:518][937]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Projectile
+[2024.02.08-23.14.00:518][937]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Projectile77FC098547F3E8BB417E0985B70DF487.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset'
+[2024.02.08-23.14.00:547][937]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.08-23.14.00:548][937]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_TunnelD014398E455BBAB789F936A7CCA3E996.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.08-23.14.00:557][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 551 ms)
+[2024.02.08-23.14.00:568][937]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Enemy.BP_Enemy
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2024.02.08-23.14.00:568][937]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Projectile.BP_Projectile
