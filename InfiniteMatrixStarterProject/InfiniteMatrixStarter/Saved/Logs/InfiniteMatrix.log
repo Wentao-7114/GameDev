@@ -9868,3 +9868,17 @@ Make sure 'BP_Projectile_C' has been compiled for  Set BP_PlayerProjectile
 [2024.02.09-00.23.37:993][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto0
 [2024.02.09-00.23.37:994][371]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_Tunnel_Auto0D3B4961B48D1B68FC0597BA205DDEB07.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto0.uasset'
 [2024.02.09-00.23.37:995][371]LogFileHelpers: Auto-saving content packages took 0.044
+[2024.02.09-00.43.01:771][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.09-00.43.02:611][768]LogSlate: Window 'Save Content' being destroyed
+[2024.02.09-00.43.02:623][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-00.43.02:755][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.09-00.43.02:777][768]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Maps/TutorialMap
+[2024.02.09-00.43.02:778][768]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/TutorialMap79643F3848AF9EC867E6A59A6EA55E5B.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2024.02.09-00.43.02:792][768]LogFileHelpers: Saving map 'TutorialMap' took 0.082
+[2024.02.09-00.43.02:821][768]LogSavePackage: Moving output files for package: /Game/InfiniteMatrix/Blueprints/BP_Tunnel
+[2024.02.09-00.43.02:822][768]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Saved/BP_TunnelF33EB94A45444B5C74458283FB71BE02.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2024.02.09-00.43.02:831][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 1.09 sec)
+[2024.02.09-00.43.02:843][768]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.09-00.43.02:843][768]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.02.09-00.43.02:843][768]LogContentValidation: Display: Validating /Script/Engine.World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2024.02.09-00.43.02:843][768]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
