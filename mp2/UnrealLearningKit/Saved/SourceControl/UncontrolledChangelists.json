@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/Blood_UI.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/Collectible.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/Health_Pack.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/BlockGame/Materials/M_BlockBase.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Assets/_Shared/Materials/M_Fresnel_MasterMaterial.uasset"
+			]
+		}
+	]
+}
