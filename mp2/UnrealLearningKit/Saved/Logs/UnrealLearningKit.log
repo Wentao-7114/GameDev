@@ -2869,3 +2869,147 @@ Script Stack (1 frames) :
 [2024.02.29-04.32.08:065][295]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/Untitled.Untitled
 [2024.02.29-04.32.08:066][295]LogContentValidation: Display: Validating /Script/Engine.Material /Game/LearningKit_Games/Assets/_Shared/Materials/M_Fresnel_MasterMaterial.M_Fresnel_MasterMaterial
 [2024.02.29-04.32.08:066][295]LogContentValidation: Display: Validating /Script/Engine.Material /Game/BlockGame/Materials/M_BlockBase.M_BlockBase
+[2024.02.29-04.32.39:125][951]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.32.39:125][951]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.32.39:126][951]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.32.39:126][951]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.33.24:295][951]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.29-04.33.24:302][951]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.29-04.33.24:309][951]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.29-04.33.24:318][952]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.29-04.33.33:669][204]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.02.29-04.33.33:679][204]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.29-04.33.35:357][371]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.02.29-04.33.44:742][437]LogContentBrowser: Attempting asset rename: NewBlueprint -> Pursuer_AIController
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.SKEL_Pursuer_AIController_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.SKEL_Pursuer_AIController_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:769][437]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.PackageMetaData'
+[2024.02.29-04.33.44:777][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-04.33.44:833][437]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController
+[2024.02.29-04.33.44:833][437]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Pursuer_AIController8DE09FD14FF5E71D1B30D9A197E328A0.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset'
+[2024.02.29-04.33.44:841][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 15.4 sec)
+[2024.02.29-04.33.44:898][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.29-04.33.44:938][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.29-04.33.44:974][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.29-04.33.44:983][437]AssetCheck: New page: Asset Save: Pursuer_AIController
+[2024.02.29-04.33.44:983][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController
+[2024.02.29-04.34.09:431][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.Pursuer_AIController
+[2024.02.29-04.34.09:432][711]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.29-04.34.10:147][711]LogViewport: Scene viewport resized to 1328x853, mode Windowed.
+[2024.02.29-04.37.04:270][547]LogSlate: Window 'Pursuer_AIController' being destroyed
+[2024.02.29-04.37.04:275][547]LogSlate: Window 'Pursuer_AIController' being destroyed
+[2024.02.29-04.37.04:285][547]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-04.37.04:285][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-04.37.08:531][946]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.37.08:531][946]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.37.08:532][946]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.37.08:532][946]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.37.12:758][946]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.29-04.37.12:765][946]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.29-04.37.12:771][946]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.29-04.37.12:781][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.29-04.37.24:236][322]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_Pursuer
+[2024.02.29-04.37.24:244][322]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.29-04.37.24:292][327]LogViewport: Scene viewport resized to 1776x738, mode Windowed.
+[2024.02.29-04.37.24:414][328]LogViewport: Scene viewport resized to 1776x477, mode Windowed.
+[2024.02.29-04.37.24:473][329]LogViewport: Scene viewport resized to 1776x440, mode Windowed.
+[2024.02.29-04.37.24:533][331]LogViewport: Scene viewport resized to 1776x437, mode Windowed.
+[2024.02.29-04.37.26:981][601]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.AI_Pursuer
+[2024.02.29-04.37.26:981][601]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.29-04.37.27:669][601]LogViewport: Scene viewport resized to 1328x853, mode Windowed.
+[2024.02.29-04.37.43:458][731]LogSlate: Window 'AI_Pursuer' being destroyed
+[2024.02.29-04.37.43:460][731]LogSlate: Window 'AI_Pursuer' being destroyed
+[2024.02.29-04.37.43:467][731]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-04.37.43:467][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-04.37.52:628][660]LogContentBrowser: Attempting asset rename: AI_Pursuer -> BP_Pursuer
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.SKEL_BP_Pursuer_C:UserConstructionScript' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.SKEL_BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:656][660]LogMetaData: Removing '/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/LearningKit_Games/Blueprints/PlayerCharacter/AI_Pursuer.PackageMetaData'
+[2024.02.29-04.37.52:662][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.29-04.37.52:771][660]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer
+[2024.02.29-04.37.52:771][660]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Pursuer855BB0E24AE8AB61341967B7344CADE5.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset'
+[2024.02.29-04.37.52:778][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 15.5 sec)
+[2024.02.29-04.37.52:838][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.29-04.37.52:878][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.29-04.37.52:914][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.29-04.37.52:924][660]AssetCheck: New page: Asset Save: BP_Pursuer
+[2024.02.29-04.37.52:924][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer
+[2024.02.29-04.37.53:359][695]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.02.29-04.37.53:360][695]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.29-04.37.54:860][715]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.29-04.37.54:864][715]LogSlate: Window 'BP_Player' being destroyed
+[2024.02.29-04.37.54:874][715]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-04.37.54:874][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-04.37.55:937][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer
+[2024.02.29-04.37.55:938][809]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.29-04.38.10:489][715]LogSlate: Window 'BP_Pursuer' being destroyed
+[2024.02.29-04.38.10:500][715]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.02.29-04.38.10:500][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.29-04.38.10:561][715]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer
+[2024.02.29-04.38.10:562][715]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.29-04.38.35:708][407]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.02.29-04.38.35:762][407]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.38.35:762][407]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.38.35:763][407]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.38.35:763][407]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.39.32:770][568]LogSkeletalMesh: Building Skeletal Mesh SK_BlockCharacter...
+[2024.02.29-04.39.32:791][568]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_BlockCharacter) ...
+[2024.02.29-04.39.33:099][568]LogSkeletalMesh: Built Skeletal Mesh [0.33s] /Game/BlockGame/PlayerCharacter/SK_BlockCharacter.SK_BlockCharacter
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: ================================================
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: Total job queries 253, among them cache hits 46 (18.18%)
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: Tracking 195 distinct input hashes that result in 137 distinct outputs (70.26%)
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: RAM used: 1.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: Shaders Compiled: 137
+[2024.02.29-04.39.33:649][572]LogShaderCompilers: Display: Jobs assigned 141, completed 137 (97.16%)
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Average time worker was idle: 161.89 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 4.27 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 6.91 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Job life time (pending + execution): average 1.74 s, max 7.70
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.30 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Jobs were issued in 135 batches (only local compilation was used), average 1.04 jobs/batch
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Average processing rate: 2.35 jobs/sec
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Total thread time: 139.18 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Total thread preprocess time: 8.36 s
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Percentage time preprocessing: 6.01%
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Effective parallelization: 2.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.29-04.39.33:650][572]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled   11 times, average 1.98 sec, max 4.78 sec, min 1.16 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   38 times, average 1.39 sec, max 6.73 sec, min 0.64 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.98 sec, max 1.15 sec, min 0.80 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   29 times, average 0.92 sec, max 1.49 sec, min 0.69 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.90 sec, max 0.90 sec, min 0.90 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.02% of total time (compiled   38 times, average 1.39 sec, max 6.73 sec, min 0.64 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.25% of total time (compiled   29 times, average 0.92 sec, max 1.49 sec, min 0.69 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 15.65% of total time (compiled   11 times, average 1.98 sec, max 4.78 sec, min 1.16 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.65% of total time (compiled   17 times, average 0.79 sec, max 0.98 sec, min 0.67 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.47% of total time (compiled   17 times, average 0.53 sec, max 0.93 sec, min 0.41 sec)
+[2024.02.29-04.39.33:651][572]LogShaderCompilers: Display: ================================================
+[2024.02.29-04.39.54:039][987]LogViewport: Scene viewport resized to 1328x853, mode Windowed.
+[2024.02.29-04.40.34:205][423]LogEditorTransaction: Undo Set Scale
+[2024.02.29-04.42.31:697][771]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.29-04.42.31:806][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.29-04.44.09:432][101]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.44.09:432][101]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.44.09:433][101]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.44.09:433][101]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.29-04.44.37:010][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.29-04.44.37:015][316]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.054
+[2024.02.29-04.44.37:017][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer] ([2] browsable assets)...
+[2024.02.29-04.44.37:118][316]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer_C]
+[2024.02.29-04.44.37:143][316]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.BP_Pursuer]
+[2024.02.29-04.44.37:143][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer]
+[2024.02.29-04.44.37:151][316]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer_Auto9
+[2024.02.29-04.44.37:151][316]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Pursuer_Auto9868D00134E0D07A335A58A98EBC104EF.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer_Auto9.uasset'
+[2024.02.29-04.44.37:153][316]LogFileHelpers: Auto-saving content packages took 0.137
+[2024.02.29-04.46.17:968][707]BlueprintLog: New page: Compile BP_Pursuer
+[2024.02.29-04.46.18:099][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
