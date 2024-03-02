@@ -1035,3 +1035,39 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-01.10.49:322][  0]LogAssetRegistry: Asset discovery search completed in 8.8051 seconds
 [2024.03.02-01.10.49:335][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2024.03.02-01.10.49:559][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.02-01.11.03:586][ 68]LogViewport: Scene viewport resized to 1528x463, mode Windowed.
+[2024.03.02-01.11.04:930][210]LogViewport: Scene viewport resized to 1763x579, mode Windowed.
+[2024.03.02-01.11.06:218][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.03.02-01.11.06:218][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-01.11.07:692][346]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.02-01.11.27:595][386]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.11.27:599][386]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.11.27:606][386]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.11.27:607][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.11.29:952][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.03.02-01.11.29:953][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-01.12.53:838][798]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.260 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-01.36.53:187][494]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.03.02-01.36.53:193][494]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.03.02-01.36.53:200][494]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.36.53:200][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.36.54:674][649]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.03.02-01.36.54:674][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-01.36.59:187][971]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.36.59:191][971]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.36.59:198][971]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.36.59:198][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.37.01:349][191]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2024.03.02-01.37.01:350][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-01.37.10:043][862]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.03.02-01.37.10:048][862]LogSlate: Window 'BP_Tunnel' being destroyed
+[2024.03.02-01.37.10:056][862]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.37.10:056][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.37.11:563][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.03.02-01.37.11:563][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-01.37.24:457][336]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.37.24:461][336]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.37.24:469][336]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.37.24:469][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.45.55:906][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2024.03.02-01.45.55:907][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000

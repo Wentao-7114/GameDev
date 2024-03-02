@@ -1876,3 +1876,429 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-01.10.44:286][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 2.80 sec)
 [2024.03.02-01.10.44:295][991]AssetCheck: New page: Asset Save: BP_Player
 [2024.03.02-01.10.44:295][991]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.16.06:388][437]LogViewport: Scene viewport resized to 1763x567, mode Windowed.
+[2024.03.02-01.16.06:513][438]LogViewport: Scene viewport resized to 1763x624, mode Windowed.
+[2024.03.02-01.16.06:571][439]LogViewport: Scene viewport resized to 1763x646, mode Windowed.
+[2024.03.02-01.16.06:633][440]LogViewport: Scene viewport resized to 1763x651, mode Windowed.
+[2024.03.02-01.16.06:690][441]LogViewport: Scene viewport resized to 1763x659, mode Windowed.
+[2024.03.02-01.16.06:754][442]LogViewport: Scene viewport resized to 1763x665, mode Windowed.
+[2024.03.02-01.16.06:806][443]LogViewport: Scene viewport resized to 1763x669, mode Windowed.
+[2024.03.02-01.16.06:855][444]LogViewport: Scene viewport resized to 1763x673, mode Windowed.
+[2024.03.02-01.16.06:905][445]LogViewport: Scene viewport resized to 1763x679, mode Windowed.
+[2024.03.02-01.16.06:986][450]LogViewport: Scene viewport resized to 1763x692, mode Windowed.
+[2024.03.02-01.16.07:049][451]LogViewport: Scene viewport resized to 1763x699, mode Windowed.
+[2024.03.02-01.16.07:181][462]LogViewport: Scene viewport resized to 1763x701, mode Windowed.
+[2024.03.02-01.16.07:236][463]LogViewport: Scene viewport resized to 1763x704, mode Windowed.
+[2024.03.02-01.16.07:285][464]LogViewport: Scene viewport resized to 1763x709, mode Windowed.
+[2024.03.02-01.16.07:336][465]LogViewport: Scene viewport resized to 1763x712, mode Windowed.
+[2024.03.02-01.16.07:449][474]LogViewport: Scene viewport resized to 1763x714, mode Windowed.
+[2024.03.02-01.16.07:978][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-01.16.07:978][521]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.16.11:718][761]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-01.16.11:723][761]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-01.16.11:730][761]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.16.11:730][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.16.12:709][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.16.12:709][833]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.16.30:601][246]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.16.30:602][246]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.16.30:602][246]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.16.30:602][246]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.17.06:492][ 88]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.03.02-01.17.12:722][473]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.17.12:758][473]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.03.02-01.17.12:758][473]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.03.02-01.17.12:848][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.03.02-01.18.12:882][ 87]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.18.13:005][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.02-01.18.21:545][738]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.18.21:669][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.02-01.20.42:493][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.02-01.20.42:496][374]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.047
+[2024.03.02-01.20.42:496][374]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player] ([2] browsable assets)...
+[2024.03.02-01.20.42:567][374]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player]
+[2024.03.02-01.20.42:567][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player]
+[2024.03.02-01.20.42:643][374]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player_Auto1
+[2024.03.02-01.20.42:644][374]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Player_Auto1BF5660B94FA43EB73BC2EAB1FCA79FDE.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player_Auto1.uasset'
+[2024.03.02-01.20.42:646][374]LogFileHelpers: Auto-saving content packages took 0.151
+[2024.03.02-01.24.57:669][282]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.24.57:675][282]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.24.57:684][282]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.24.57:684][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.24.59:186][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner.BP_Spawner
+[2024.03.02-01.24.59:186][426]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.25.13:036][558]BlueprintLog: New page: Compile BP_Spawner
+[2024.03.02-01.25.13:107][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.02-01.25.22:052][338]LogSlate: Window 'BP_Spawner' being destroyed
+[2024.03.02-01.25.22:057][338]LogSlate: Window 'BP_Spawner' being destroyed
+[2024.03.02-01.25.22:064][338]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.25.22:065][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.25.23:453][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.25.23:453][472]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.29.13:466][287]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.29.13:466][287]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.29.13:467][287]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.29.13:467][287]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.30.11:956][912]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.30.12:089][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.03.02-01.31.23:960][592]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.31.24:088][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.03.02-01.31.29:186][997]LogViewport: Scene viewport resized to 1328x882, mode Windowed.
+[2024.03.02-01.31.46:298][377]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.31.46:303][377]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.31.46:311][377]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.31.46:311][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.31.47:870][528]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-01.31.47:879][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-01.31.47:879][528]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 1:31:47 PM)
+[2024.03.02-01.31.47:880][528]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.31.47:910][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031343s)
+[2024.03.02-01.31.47:910][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.031395s)
+[2024.03.02-01.31.47:911][528]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.31.47:911][528]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-01.31.47:911][528]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2024.03.02-01.31.47:951][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.03.02-01.31.47:959][528]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-01.31.47:959][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-01.31.47:959][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-01.31.47:961][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-01.31.47:961][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-01.31.47:961][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-01.31.47:964][528]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-01.31.47:980][528]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-01.31.47:980][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-01.31.47:980][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-01.31.47:980][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-01.31.47:981][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.02-01.31.47:981][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.02-01.31.47:984][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.02-01.31.47:984][528]LogInit: FAudioDevice initialized.
+[2024.03.02-01.31.47:984][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.02-01.31.47:984][528]LogAudio: Display: Audio Device (ID: 10) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-01.31.47:987][528]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-01.31.47:998][528]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-19.31.47
+[2024.03.02-01.31.50:598][528]LogWorld: Bringing up level for play took: 2.611290
+[2024.03.02-01.31.50:601][528]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.03.02-01.31.50:607][528]PIE: Server logged in
+[2024.03.02-01.31.50:608][528]PIE: Play in editor total start time 2.729 seconds.
+[2024.03.02-01.31.50:628][529]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-01.31.50:629][529]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-01.31.55:704][905]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.31.55:704][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-01.31.56:463][968]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child2] Power Up
+[2024.03.02-01.31.56:970][  9]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0012
+[2024.03.02-01.31.56:970][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spawn Health Pack Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.31.56:970][  9]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0038
+[2024.03.02-01.31.56:970][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spwan Collectible Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.31.56:970][  9]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.31.56:970][  9]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.31.56:970][  9]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.31.56:970][  9]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.32.09:090][ 20]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.32.09:090][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-01.32.10:217][114]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0012
+[2024.03.02-01.32.10:217][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spawn Health Pack Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.32.10:217][114]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0038
+[2024.03.02-01.32.10:217][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spwan Collectible Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.32.10:217][114]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.32.10:217][114]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.32.10:217][114]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.32.10:217][114]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.32.24:824][330]LogBlueprintUserMessages: [Collectable_Pickup_BP_2] Collectable
+[2024.03.02-01.32.25:068][349]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_2] Power Up
+[2024.03.02-01.32.31:863][902]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.32.31:863][902]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-01.32.31:937][908]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-01.32.31:938][908]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-01.32.32:804][980]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0012
+[2024.03.02-01.32.32:804][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spawn Health Pack Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.32.32:804][980]LogScript: Warning: Accessed None trying to read property Spawner
+	BP_Player_C /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.BP_Player_C_0
+	Function /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C:RestartGame:0038
+[2024.03.02-01.32.32:804][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Spawner". Node:  Spwan Collectible Graph:  RestartGame Function:  Restart Game Blueprint:  BP_Player
+[2024.03.02-01.32.32:804][980]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.32.32:805][980]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.32.32:805][980]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.32.32:805][980]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.32.49:386][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner.BP_Spawner
+[2024.03.02-01.32.49:387][899]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.32.59:072][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.32.59:072][417]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.32.59:073][417]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.32.59:075][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.32.59:080][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-01.32.59:089][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.32.59:133][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-01.32.59:134][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.02-01.32.59:136][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.02-01.32.59:140][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.32.59:146][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.02-01.32.59:383][418]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.03.02-01.33.02:708][680]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.33.02:708][680]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.33.14:478][589]LogSlate: Window 'Message Log' being destroyed
+[2024.03.02-01.33.14:486][589]LogSlate: Window 'Message Log' being destroyed
+[2024.03.02-01.33.19:393][991]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.33.19:427][991]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] This blueprint (self) is not a BP_Spawner_C, therefore ' Target ' must have a connection.
+[2024.03.02-01.33.19:427][991]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] This blueprint (self) is not a BP_Spawner_C, therefore ' Target ' must have a connection.
+[2024.03.02-01.33.19:522][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.03.02-01.33.54:238][707]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.33.54:274][707]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_Spawner  to imply a specific type.
+[2024.03.02-01.33.54:276][707]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.03.02-01.33.54:370][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.03.02-01.35.12:892][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.02-01.35.13:041][602]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto2
+[2024.03.02-01.35.13:042][602]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_Showcase_Auto245A036594460EE95E26203AF5773FF91.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto2.umap'
+[2024.03.02-01.35.13:051][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.223
+[2024.03.02-01.35.13:051][602]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.223
+[2024.03.02-01.35.13:051][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player] ([2] browsable assets)...
+[2024.03.02-01.35.13:111][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player]
+[2024.03.02-01.35.13:111][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player]
+[2024.03.02-01.35.13:199][602]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player_Auto2
+[2024.03.02-01.35.13:200][602]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Player_Auto2898AE2AF4501B81449F088832336CB2A.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player_Auto2.uasset'
+[2024.03.02-01.35.13:202][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner] ([2] browsable assets)...
+[2024.03.02-01.35.13:202][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner]
+[2024.03.02-01.35.13:215][602]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner_Auto2
+[2024.03.02-01.35.13:216][602]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Spawner_Auto28B348F9241ABAFBA83D77884A0A1C0FC.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner_Auto2.uasset'
+[2024.03.02-01.35.13:217][602]LogFileHelpers: Auto-saving content packages took 0.167
+[2024.03.02-01.38.09:158][ 42]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.38.09:159][ 42]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.38.09:159][ 42]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.38.09:159][ 42]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.39.10:236][323]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.39.10:271][323]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] This blueprint (self) is not a Restart_C, therefore ' Target ' must have a connection.
+[2024.03.02-01.39.10:272][323]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] Variable node  Set Spawner  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.03.02-01.39.10:373][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.03.02-01.39.58:641][734]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.39.58:676][734]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] This blueprint (self) is not a Restart_C, therefore ' Target ' must have a connection.
+[2024.03.02-01.39.58:678][734]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] Variable node  Set Spawner  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.03.02-01.39.58:775][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.03.02-01.39.59:656][784]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.39.59:690][784]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] This blueprint (self) is not a Restart_C, therefore ' Target ' must have a connection.
+[2024.03.02-01.39.59:692][784]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\BP_Player.uasset: [Compiler] Variable node  Set Spawner  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.03.02-01.39.59:789][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.03.02-01.40.51:262][595]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.40.51:400][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.03.02-01.41.10:933][173]LogEditorTransaction: Undo Create Pin Link
+[2024.03.02-01.41.12:027][217]LogEditorTransaction: Undo Delete current selection
+[2024.03.02-01.42.07:508][144]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.42.07:650][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.02-01.42.34:145][ 97]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.42.34:146][ 97]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.42.34:146][ 97]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.42.34:146][ 97]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.03.02-01.43.00:638][ 93]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.43.00:778][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.03.02-01.43.02:542][226]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.43.02:549][226]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.43.02:558][226]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.43.02:558][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.43.02:642][226]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.03.02-01.43.02:643][226]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.43.02:643][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.43.03:366][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-01.43.03:496][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.02-01.43.03:648][277]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2024.03.02-01.43.03:649][277]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_ShowcaseC8C3188141EF69D6CD8D8B95FD86BDA1.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2024.03.02-01.43.03:668][277]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.215
+[2024.03.02-01.43.03:675][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 309 ms (total: 3.11 sec)
+[2024.03.02-01.43.03:684][277]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2024.03.02-01.43.03:684][277]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2024.03.02-01.43.04:456][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-01.43.04:589][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.02-01.43.04:728][360]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2024.03.02-01.43.04:729][360]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_ShowcaseC69E9A3449EF0AD2898CEDAC0E25A6B3.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2024.03.02-01.43.04:743][360]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.197
+[2024.03.02-01.43.04:752][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 3.41 sec)
+[2024.03.02-01.43.04:762][360]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2024.03.02-01.43.04:762][360]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2024.03.02-01.43.04:865][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-01.43.04:989][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.02-01.43.05:127][362]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2024.03.02-01.43.05:128][362]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_Showcase29D626AF4B038B579C6E69995175EFDB.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2024.03.02-01.43.05:142][362]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.191
+[2024.03.02-01.43.05:150][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 284 ms (total: 3.69 sec)
+[2024.03.02-01.43.05:159][362]AssetCheck: New page: Asset Save: LearningKit_Games_Showcase
+[2024.03.02-01.43.05:159][362]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2024.03.02-01.43.05:276][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.03.02-01.43.06:028][370]LogSlate: Window 'Save Content' being destroyed
+[2024.03.02-01.43.06:037][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-01.43.06:297][370]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player
+[2024.03.02-01.43.06:298][370]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_PlayerFD6549334D2323A4566BEAA8169AF7AE.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset'
+[2024.03.02-01.43.06:311][370]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner
+[2024.03.02-01.43.06:311][370]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_Spawner41E6A27542E580B951EC449B50896507.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner.uasset'
+[2024.03.02-01.43.06:320][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 3.98 sec)
+[2024.03.02-01.43.06:329][370]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.02-01.43.06:329][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.43.06:329][370]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Spawner.BP_Spawner
+[2024.03.02-01.43.07:628][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-01.43.07:636][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-01.43.07:636][505]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 1:43:07 PM)
+[2024.03.02-01.43.07:636][505]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.43.07:666][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029409s)
+[2024.03.02-01.43.07:666][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.029458s)
+[2024.03.02-01.43.07:666][505]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.43.07:667][505]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-01.43.07:667][505]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2024.03.02-01.43.07:703][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.02-01.43.07:705][505]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-01.43.07:705][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-01.43.07:705][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-01.43.07:706][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-01.43.07:706][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-01.43.07:706][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-01.43.07:708][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-01.43.07:726][505]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-01.43.07:727][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-01.43.07:727][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-01.43.07:727][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-01.43.07:727][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.02-01.43.07:727][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.02-01.43.07:729][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.02-01.43.07:729][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.02-01.43.07:729][505]LogInit: FAudioDevice initialized.
+[2024.03.02-01.43.07:729][505]LogAudio: Display: Audio Device (ID: 11) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-01.43.07:733][505]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-01.43.07:743][505]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-19.43.07
+[2024.03.02-01.43.10:362][505]LogWorld: Bringing up level for play took: 2.629024
+[2024.03.02-01.43.10:365][505]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.03.02-01.43.10:373][505]PIE: Server logged in
+[2024.03.02-01.43.10:373][505]PIE: Play in editor total start time 2.737 seconds.
+[2024.03.02-01.43.10:393][506]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-01.43.10:394][506]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-01.43.21:897][414]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.43.21:897][414]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-01.43.21:957][419]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-01.43.21:958][419]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-01.43.23:243][523]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.43.23:243][523]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.43.23:243][523]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.43.23:243][523]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.43.35:634][547]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.43.35:634][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-01.43.37:215][681]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.43.37:215][681]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.43.37:215][681]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.43.37:215][681]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.43.40:326][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.43.40:326][936]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.43.40:327][936]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.43.40:329][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.43.40:332][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-01.43.40:340][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.43.40:373][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.43.40:373][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.02-01.43.40:376][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.02-01.43.40:388][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.02-01.43.40:435][937]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.02-01.43.44:049][306]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.43.44:050][306]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.46.33:086][958]BlueprintLog: New page: Compile BP_Player
+[2024.03.02-01.46.33:217][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.02-01.46.33:753][994]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.46.33:758][994]LogSlate: Window 'BP_Player' being destroyed
+[2024.03.02-01.46.33:769][994]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.46.33:769][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.46.34:803][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-01.46.34:812][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-01.46.34:812][104]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 1:46:34 PM)
+[2024.03.02-01.46.34:812][104]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.46.34:842][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030070s)
+[2024.03.02-01.46.34:843][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.030116s)
+[2024.03.02-01.46.34:843][104]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-01.46.34:843][104]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-01.46.34:843][104]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.03.02-01.46.34:884][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.02-01.46.34:900][104]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-01.46.34:900][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-01.46.34:900][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-01.46.34:901][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-01.46.34:901][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-01.46.34:901][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-01.46.34:904][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-01.46.34:921][104]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-01.46.34:921][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-01.46.34:921][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-01.46.34:921][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-01.46.34:922][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.02-01.46.34:922][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.02-01.46.34:924][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.02-01.46.34:924][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.02-01.46.34:924][104]LogInit: FAudioDevice initialized.
+[2024.03.02-01.46.34:924][104]LogAudio: Display: Audio Device (ID: 12) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-01.46.34:928][104]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-01.46.34:939][104]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-19.46.34
+[2024.03.02-01.46.37:574][104]LogWorld: Bringing up level for play took: 2.645603
+[2024.03.02-01.46.37:576][104]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.02-01.46.37:584][104]PIE: Server logged in
+[2024.03.02-01.46.37:584][104]PIE: Play in editor total start time 2.773 seconds.
+[2024.03.02-01.46.37:605][105]LogAutomationController: Ignoring very large delta of 2.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-01.46.37:606][105]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068165 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-01.46.47:119][820]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.46.47:119][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-01.46.47:182][825]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-01.46.47:182][825]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-01.46.48:013][893]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.46.48:013][893]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.46.48:013][893]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.46.48:013][893]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.46.56:670][608]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-01.46.56:670][608]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-01.46.57:643][690]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-01.46.57:644][690]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-01.46.57:644][690]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-01.46.57:644][690]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-01.47.02:617][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.47.02:617][992]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-01.47.02:618][992]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-01.47.02:621][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.47.02:626][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-01.47.02:636][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-01.47.02:674][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-01.47.02:674][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.02-01.47.02:676][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.02-01.47.02:680][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-01.47.02:686][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.02-01.47.02:735][993]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.02-01.48.21:082][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.02-01.48.22:237][355]LogSlate: Window 'Save Content' being destroyed
+[2024.03.02-01.48.22:244][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-01.48.22:495][355]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player
+[2024.03.02-01.48.22:496][355]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/BP_PlayerC8D482D94FB1B892807866809009B976.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.uasset'
+[2024.03.02-01.48.22:504][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 4.24 sec)
+[2024.03.02-01.48.22:519][355]AssetCheck: New page: Asset Save: BP_Player
+[2024.03.02-01.48.22:519][355]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
