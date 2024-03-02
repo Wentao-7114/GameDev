@@ -2302,3 +2302,481 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-01.48.22:504][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 4.24 sec)
 [2024.03.02-01.48.22:519][355]AssetCheck: New page: Asset Save: BP_Player
 [2024.03.02-01.48.22:519][355]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player
+[2024.03.02-01.51.41:531][850]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.312 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-02.51.41:574][798]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.340 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-03.49.40:394][181]LogAudioMixer: Warning: FMixerPlatformXAudio2: Audio device removed [[No Friendly Name for Device]], falling back to other windows default device. bIsRenderDevice=1, InstanceID=1
+[2024.03.02-03.49.40:394][181]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.02-03.49.40:418][181]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10312
+[2024.03.02-03.49.58:947][237]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.02-03.50.01:118][246]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Remote Audio, InstanceID=1
+[2024.03.02-03.50.01:462][276]LogViewport: Scene viewport resized to 1509x601, mode Windowed.
+[2024.03.02-03.50.01:832][276]LogViewport: Scene viewport resized to 1763x714, mode Windowed.
+[2024.03.02-03.50.01:926][276]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={3.0.0.00000008}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}, Name=Remote Audio), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=664.06
+[2024.03.02-03.50.01:926][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.02-03.50.01:929][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.02-03.51.41:590][445]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.345 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-04.51.41:530][993]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.277 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-04.53.35:847][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-04.53.35:847][545]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.53.55:163][831]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.54.36:636][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.02-04.54.36:810][694]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto3
+[2024.03.02-04.54.36:811][694]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_Showcase_Auto3350CE87D4015D427CC57078904085CCC.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto3.umap'
+[2024.03.02-04.54.36:820][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.231
+[2024.03.02-04.54.36:820][694]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.231
+[2024.03.02-04.54.36:820][694]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar] ([2] browsable assets)...
+[2024.03.02-04.54.36:904][694]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar]
+[2024.03.02-04.54.36:904][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar]
+[2024.03.02-04.54.36:916][694]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar_Auto3
+[2024.03.02-04.54.36:917][694]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Mortar_Auto37720A91F4FFAA30808A8CA9075F44748.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar_Auto3.uasset'
+[2024.03.02-04.54.36:918][694]LogFileHelpers: Auto-saving content packages took 0.098
+[2024.03.02-04.56.37:763][418]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.56.37:767][418]LogBlueprint: Error: [AssetLog] C:\Users\wentaoz4\GitHub\GameDev\mp2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\PlayerCharacter\Mortar.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2024.03.02-04.56.37:836][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.02-04.56.38:015][419]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.56.53:557][325]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.56.53:632][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.02-04.56.53:796][326]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.56.55:208][442]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.56.55:214][442]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.56.55:221][442]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.56.55:221][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.56.56:508][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-04.56.56:518][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-04.56.56:518][578]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 4:56:56 PM)
+[2024.03.02-04.56.56:518][578]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.56.56:548][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029806s)
+[2024.03.02-04.56.56:548][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.029852s)
+[2024.03.02-04.56.56:548][578]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.56.56:549][578]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-04.56.56:550][578]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2024.03.02-04.56.56:585][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.02-04.56.56:598][578]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-04.56.56:598][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-04.56.56:598][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-04.56.56:599][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-04.56.56:599][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-04.56.56:599][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-04.56.56:602][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-04.56.56:621][578]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-04.56.56:621][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-04.56.56:621][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-04.56.56:621][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-04.56.56:622][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.02-04.56.56:622][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.02-04.56.56:625][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.02-04.56.56:625][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.02-04.56.56:625][578]LogInit: FAudioDevice initialized.
+[2024.03.02-04.56.56:625][578]LogAudio: Display: Audio Device (ID: 13) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-04.56.56:628][578]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-04.56.56:639][578]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-22.56.56
+[2024.03.02-04.56.59:226][578]LogWorld: Bringing up level for play took: 2.598498
+[2024.03.02-04.56.59:229][578]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.03.02-04.56.59:237][578]PIE: Server logged in
+[2024.03.02-04.56.59:238][578]PIE: Play in editor total start time 2.72 seconds.
+[2024.03.02-04.56.59:258][579]LogAutomationController: Ignoring very large delta of 2.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-04.56.59:260][579]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-04.57.04:202][928]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.57.04:202][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-04.57.04:523][954]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-04.57.04:523][954]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-04.57.08:139][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.57.08:139][224]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.57.08:139][224]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.57.08:142][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.57.08:148][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-04.57.08:155][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.57.08:191][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-04.57.08:193][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.02-04.57.08:195][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.02-04.57.08:199][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.57.08:203][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.02-04.57.08:254][225]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.03.02-04.57.09:646][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-04.57.09:654][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-04.57.09:654][383]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 4:57:09 PM)
+[2024.03.02-04.57.09:654][383]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.57.09:686][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031529s)
+[2024.03.02-04.57.09:686][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.031576s)
+[2024.03.02-04.57.09:686][383]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.57.09:687][383]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-04.57.09:688][383]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2024.03.02-04.57.09:724][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.02-04.57.09:728][383]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-04.57.09:728][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-04.57.09:728][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-04.57.09:729][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-04.57.09:729][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-04.57.09:729][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-04.57.09:731][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-04.57.09:744][383]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-04.57.09:744][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-04.57.09:744][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-04.57.09:744][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-04.57.09:745][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.02-04.57.09:745][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.02-04.57.09:748][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.02-04.57.09:748][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.03.02-04.57.09:748][383]LogInit: FAudioDevice initialized.
+[2024.03.02-04.57.09:748][383]LogAudio: Display: Audio Device (ID: 14) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-04.57.09:751][383]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-04.57.09:762][383]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-22.57.09
+[2024.03.02-04.57.12:348][383]LogWorld: Bringing up level for play took: 2.597087
+[2024.03.02-04.57.12:351][383]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.03.02-04.57.12:359][383]PIE: Server logged in
+[2024.03.02-04.57.12:360][383]PIE: Play in editor total start time 2.705 seconds.
+[2024.03.02-04.57.12:380][384]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-04.57.12:380][384]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-04.57.18:006][784]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.57.18:006][784]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-04.57.20:197][971]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-04.57.20:197][971]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-04.57.20:197][971]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-04.57.20:197][971]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-04.57.25:707][435]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child2] Power Up
+[2024.03.02-04.57.32:512][993]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.57.32:512][993]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-04.57.34:619][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.57.34:619][162]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.57.34:620][162]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.57.34:622][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.57.34:626][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-04.57.34:634][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.57.34:674][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.57.34:675][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.02-04.57.34:677][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.02-04.57.34:688][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.03.02-04.57.34:735][163]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.03.02-04.57.41:916][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-04.57.41:917][579]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.57.57:640][715]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.57.57:719][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.02-04.57.57:884][716]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.57.58:493][759]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.57.58:498][759]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.57.58:505][759]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.57.58:505][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.57.59:444][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-04.57.59:453][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-04.57.59:453][833]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 4:57:59 PM)
+[2024.03.02-04.57.59:453][833]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.57.59:483][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030353s)
+[2024.03.02-04.57.59:483][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.030393s)
+[2024.03.02-04.57.59:483][833]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.57.59:484][833]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-04.57.59:484][833]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2024.03.02-04.57.59:522][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.03.02-04.57.59:536][833]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-04.57.59:536][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-04.57.59:537][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-04.57.59:537][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-04.57.59:537][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-04.57.59:537][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-04.57.59:537][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-04.57.59:540][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-04.57.59:554][833]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-04.57.59:554][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-04.57.59:554][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-04.57.59:554][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-04.57.59:555][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.03.02-04.57.59:555][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.03.02-04.57.59:557][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.03.02-04.57.59:557][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.03.02-04.57.59:557][833]LogInit: FAudioDevice initialized.
+[2024.03.02-04.57.59:557][833]LogAudio: Display: Audio Device (ID: 15) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-04.57.59:561][833]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-04.57.59:571][833]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-22.57.59
+[2024.03.02-04.58.02:167][833]LogWorld: Bringing up level for play took: 2.605541
+[2024.03.02-04.58.02:169][833]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.02-04.58.02:177][833]PIE: Server logged in
+[2024.03.02-04.58.02:177][833]PIE: Play in editor total start time 2.725 seconds.
+[2024.03.02-04.58.02:199][834]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-04.58.02:199][834]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-04.58.09:732][397]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.58.09:732][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-04.58.09:792][402]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-04.58.09:792][402]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-04.58.10:192][434]LogScript: Warning: Script Msg: The widget 'Restart_C_0' was already added to the screen.
+[2024.03.02-04.58.10:192][434]LogScript: Warning: Last function called:
+	/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Player.BP_Player_C.DisplayRestart
+
+[2024.03.02-04.58.13:529][714]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-04.58.13:529][714]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-04.58.13:529][714]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-04.58.13:529][714]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-04.58.28:138][930]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.58.28:138][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.03.02-04.58.29:265][ 26]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-04.58.29:265][ 26]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-04.58.29:265][ 26]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-04.58.29:265][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-04.58.33:650][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.58.33:650][262]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.58.33:651][262]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.58.33:653][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.58.33:657][262]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-04.58.33:667][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.58.33:706][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-04.58.33:706][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.02-04.58.33:708][262]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.03.02-04.58.33:713][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.58.33:719][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.03.02-04.58.33:766][263]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.02-04.58.35:639][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-04.58.35:640][451]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.58.57:855][949]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.58.57:933][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.02-04.58.58:134][950]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.58.58:209][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.02-04.58.58:295][951]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.58.58:370][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.02-04.58.58:646][953]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.58.58:935][956]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.58.58:940][956]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.58.58:948][956]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.58.58:948][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.59.00:415][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.02-04.59.01:232][101]LogSlate: Window 'Save Content' being destroyed
+[2024.03.02-04.59.01:241][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-04.59.01:363][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.02-04.59.01:500][101]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2024.03.02-04.59.01:501][101]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_ShowcaseE33E894F49F438B0F084E8B576DB6CC4.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2024.03.02-04.59.01:517][101]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.190
+[2024.03.02-04.59.01:607][101]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar
+[2024.03.02-04.59.01:607][101]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Mortar6E65ACDF448C276396586F963D807AA5.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.uasset'
+[2024.03.02-04.59.01:615][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 374 ms (total: 4.61 sec)
+[2024.03.02-04.59.01:626][101]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.02-04.59.01:626][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-04.59.01:626][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase
+[2024.03.02-04.59.02:898][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-04.59.02:907][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-04.59.02:907][229]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 4:59:02 PM)
+[2024.03.02-04.59.02:907][229]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.59.02:937][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028946s)
+[2024.03.02-04.59.02:937][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.028985s)
+[2024.03.02-04.59.02:937][229]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.59.02:937][229]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-04.59.02:938][229]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2024.03.02-04.59.02:975][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.02-04.59.02:977][229]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-04.59.02:977][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-04.59.02:977][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-04.59.02:978][229]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-04.59.02:978][229]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-04.59.02:978][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-04.59.02:981][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-04.59.02:996][229]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-04.59.02:996][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-04.59.02:997][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-04.59.02:997][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-04.59.02:997][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.03.02-04.59.02:997][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.03.02-04.59.03:000][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.03.02-04.59.03:000][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.03.02-04.59.03:000][229]LogInit: FAudioDevice initialized.
+[2024.03.02-04.59.03:000][229]LogAudio: Display: Audio Device (ID: 16) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-04.59.03:003][229]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-04.59.03:015][229]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-22.59.03
+[2024.03.02-04.59.05:606][229]LogWorld: Bringing up level for play took: 2.603341
+[2024.03.02-04.59.05:610][229]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.03.02-04.59.05:617][229]PIE: Server logged in
+[2024.03.02-04.59.05:617][229]PIE: Play in editor total start time 2.711 seconds.
+[2024.03.02-04.59.05:637][230]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-04.59.05:639][230]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-04.59.16:676][ 78]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.03.02-04.59.16:677][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.03.02-04.59.17:960][181]LogBlueprintUserMessages: [BP_Player_C_0] Hello
+[2024.03.02-04.59.17:960][181]LogBlueprintUserMessages: [BP_Player_C_0] 222222
+[2024.03.02-04.59.17:960][181]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.03.02-04.59.17:960][181]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.03.02-04.59.29:879][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.59.29:879][ 56]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.59.29:880][ 56]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.59.29:882][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.59.29:885][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-04.59.29:893][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.59.29:930][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-04.59.29:930][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.02-04.59.29:932][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.03.02-04.59.29:935][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-04.59.29:941][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.02-04.59.29:990][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.03.02-04.59.32:703][239]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-04.59.32:703][239]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.59.46:496][172]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.59.46:575][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.03.02-04.59.46:729][173]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.59.47:057][202]BlueprintLog: New page: Compile Mortar
+[2024.03.02-04.59.47:129][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.03.02-04.59.47:287][203]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-04.59.48:537][315]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.59.48:544][315]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-04.59.48:551][315]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-04.59.48:551][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-04.59.49:733][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-04.59.49:742][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-04.59.49:742][441]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 4:59:49 PM)
+[2024.03.02-04.59.49:742][441]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-04.59.49:773][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030349s)
+[2024.03.02-04.59.49:773][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.030392s)
+[2024.03.02-04.59.49:773][441]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-04.59.49:773][441]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-04.59.49:774][441]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2024.03.02-04.59.49:812][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.03.02-04.59.49:827][441]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-04.59.49:827][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-04.59.49:827][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-04.59.49:828][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-04.59.49:828][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-04.59.49:828][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-04.59.49:830][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-04.59.49:844][441]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-04.59.49:844][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-04.59.49:844][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-04.59.49:844][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-04.59.49:846][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.03.02-04.59.49:846][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.03.02-04.59.49:848][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.03.02-04.59.49:848][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.03.02-04.59.49:848][441]LogInit: FAudioDevice initialized.
+[2024.03.02-04.59.49:848][441]LogAudio: Display: Audio Device (ID: 17) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-04.59.49:852][441]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-04.59.49:863][441]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-22.59.49
+[2024.03.02-04.59.52:458][441]LogWorld: Bringing up level for play took: 2.606683
+[2024.03.02-04.59.52:461][441]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.03.02-04.59.52:468][441]PIE: Server logged in
+[2024.03.02-04.59.52:469][441]PIE: Play in editor total start time 2.728 seconds.
+[2024.03.02-04.59.52:489][442]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-04.59.52:490][442]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068164 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-05.00.12:660][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-05.00.12:660][901]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-05.00.12:660][901]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-05.00.12:662][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-05.00.12:667][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-05.00.12:674][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-05.00.12:710][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-05.00.12:711][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.02-05.00.12:713][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.03.02-05.00.12:717][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-05.00.12:722][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.02-05.00.12:770][902]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.03.02-05.00.14:392][ 71]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-05.00.14:392][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-05.00.43:998][236]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-05.00.54:398][ 45]BlueprintLog: New page: Compile Mortar
+[2024.03.02-05.00.54:475][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.03.02-05.00.54:644][ 46]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase:PersistentLevel.RecastNavMesh-Default).
+[2024.03.02-05.00.55:113][ 87]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-05.00.55:119][ 87]LogSlate: Window 'Mortar' being destroyed
+[2024.03.02-05.00.55:125][ 87]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-05.00.55:125][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-05.00.56:173][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.02-05.00.56:183][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.02-05.00.56:183][171]PIE: New page: PIE session: LearningKit_Games_Showcase (Mar 1, 2024, 5:00:56 PM)
+[2024.03.02-05.00.56:183][171]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-05.00.56:213][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029659s)
+[2024.03.02-05.00.56:213][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.029702s)
+[2024.03.02-05.00.56:213][171]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.03.02-05.00.56:213][171]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2024.03.02-05.00.56:214][171]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2024.03.02-05.00.56:248][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.03.02-05.00.56:263][171]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.02-05.00.56:263][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.02-05.00.56:263][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.02-05.00.56:264][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.02-05.00.56:264][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.02-05.00.56:264][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.02-05.00.56:266][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.02-05.00.56:281][171]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.03.02-05.00.56:281][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.02-05.00.56:281][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.02-05.00.56:281][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.02-05.00.56:282][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.03.02-05.00.56:282][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.03.02-05.00.56:284][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.03.02-05.00.56:284][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.03.02-05.00.56:284][171]LogInit: FAudioDevice initialized.
+[2024.03.02-05.00.56:284][171]LogAudio: Display: Audio Device (ID: 18) registered with world 'LearningKit_Games_Showcase'.
+[2024.03.02-05.00.56:288][171]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.03.02-05.00.56:299][171]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 0) at 2024.03.01-23.00.56
+[2024.03.02-05.00.58:897][171]LogWorld: Bringing up level for play took: 2.609253
+[2024.03.02-05.00.58:900][171]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.03.02-05.00.58:907][171]PIE: Server logged in
+[2024.03.02-05.00.58:909][171]PIE: Play in editor total start time 2.726 seconds.
+[2024.03.02-05.00.58:928][172]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.03.02-05.00.58:929][172]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068218 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_0', movement 'Walking'
+[2024.03.02-05.01.26:670][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-05.01.26:670][302]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2024.03.02-05.01.26:671][302]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2024.03.02-05.01.26:673][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-05.01.26:676][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.02-05.01.26:683][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.02-05.01.26:719][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.02-05.01.26:719][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.02-05.01.26:722][302]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.03.02-05.01.26:727][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.02-05.01.26:732][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.03.02-05.01.26:780][303]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.03.02-05.10.19:998][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.02-05.10.20:147][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto4
+[2024.03.02-05.10.20:148][770]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_Showcase_Auto4CCB11EB2439020B87DDE5F8D5F4D0062.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase_Auto4.umap'
+[2024.03.02-05.10.20:156][770]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/LearningKit_Games_Showcase' took 0.198
+[2024.03.02-05.10.20:156][770]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.198
+[2024.03.02-05.10.20:157][770]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar] ([2] browsable assets)...
+[2024.03.02-05.10.20:247][770]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar]
+[2024.03.02-05.10.20:248][770]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar]
+[2024.03.02-05.10.20:263][770]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar_Auto4
+[2024.03.02-05.10.20:263][770]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Mortar_Auto4AC19B6BA483F8E7D809742AC5BEE3B74.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar_Auto4.uasset'
+[2024.03.02-05.10.20:264][770]LogFileHelpers: Auto-saving content packages took 0.108
+[2024.03.02-05.39.37:945][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.03.02-05.39.38:874][608]LogSlate: Window 'Save Content' being destroyed
+[2024.03.02-05.39.38:882][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.02-05.39.39:027][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.03.02-05.39.39:165][608]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase
+[2024.03.02-05.39.39:166][608]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/LearningKit_Games_ShowcaseA9F597B1459A0DAF6536FF9E51FFF143.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap'
+[2024.03.02-05.39.39:182][608]LogFileHelpers: Saving map 'LearningKit_Games_Showcase' took 0.193
+[2024.03.02-05.39.39:199][608]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar
+[2024.03.02-05.39.39:200][608]LogSavePackage: Moving '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Saved/Mortar68A088E94887A42339BBF3815C290529.tmp' to '../../../../../../Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.uasset'
+[2024.03.02-05.39.39:207][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 326 ms (total: 4.94 sec)
+[2024.03.02-05.39.39:219][608]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.02-05.39.39:219][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.Mortar
+[2024.03.02-05.39.39:219][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase

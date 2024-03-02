@@ -1071,3 +1071,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.02-01.37.24:469][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.03.02-01.45.55:906][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
 [2024.03.02-01.45.55:907][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.02-02.12.53:910][882]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.313 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-03.12.53:952][680]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.342 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-03.49.40:410][299]LogAudioMixer: Warning: FMixerPlatformXAudio2: Audio device removed [[No Friendly Name for Device]], falling back to other windows default device. bIsRenderDevice=1, InstanceID=1
+[2024.03.02-03.49.40:411][299]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2024.03.02-03.49.40:699][299]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17164
+[2024.03.02-03.49.58:922][354]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.02-03.50.01:081][360]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Remote Audio, InstanceID=1
+[2024.03.02-03.50.01:874][362]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={3.0.0.00000008}.{6C26BA7D-F0B2-4225-B422-8168C5261E45}, Name=Remote Audio), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=668.79
+[2024.03.02-03.50.01:874][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.03.02-03.50.01:906][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.02-04.12.53:874][478]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.255 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
+[2024.03.02-05.12.53:952][276]LogDerivedDataCache: C:/Users/wentaoz4/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:15.326 and deleted 0 files with total size 0 MiB. Scanned 8076 files in 7976 folders with total size 333 MiB.
