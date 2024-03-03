@@ -37,7 +37,9 @@
 				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/MP2_0301_15.umap",
 				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/map2/Untitled.umap",
 				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/FinishBox.uasset",
-				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/FinishUI.uasset"
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/UI/FinishUI.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Projectile.uasset",
+				"C:/Users/wentaoz4/GitHub/GameDev/mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer_2.uasset"
 			]
 		}
 	]
